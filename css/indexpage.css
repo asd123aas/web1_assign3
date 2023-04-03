@@ -1,0 +1,13 @@
+    .navbar-nav{
+        display:flex;
+        
+    }
+      
+      body {
+        background-color: #FAFDF3;
+    }
+    
+   
+      #header-text {
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
